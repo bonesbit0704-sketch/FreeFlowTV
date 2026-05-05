@@ -1,0 +1,14 @@
+<resources>
+    <color name="screen_bg">#08121D</color>
+    <color name="panel_bg">#102234</color>
+    <color name="panel_bg_alt">#132A40</color>
+    <color name="panel_line">#264864</color>
+    <color name="text_primary">#F3F8FF</color>
+    <color name="text_secondary">#97AFC8</color>
+    <color name="accent">#79EAC7</color>
+    <color name="accent_dark">#0E332E</color>
+    <color name="youtube_red">#FF0033</color>
+    <color name="splash_bg">#05070B</color>
+    <color name="button_primary_start">#79EAC7</color>
+    <color name="button_primary_end">#64B7FF</color>
+</resources>

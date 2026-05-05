@@ -1,0 +1,29 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+
+# Local SDK paths
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Signing and secrets
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+keystore.properties
+signing.properties
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+Desktop.ini

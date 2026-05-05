@@ -1,0 +1,21 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="0"
+                android:endColor="#13324B"
+                android:startColor="#07111B" />
+        </shape>
+    </item>
+    <item
+        android:left="18dp"
+        android:top="16dp"
+        android:right="160dp"
+        android:bottom="16dp">
+        <bitmap
+            android:antialias="true"
+            android:filter="true"
+            android:gravity="center"
+            android:src="@drawable/freeflow_logo" />
+    </item>
+</layer-list>

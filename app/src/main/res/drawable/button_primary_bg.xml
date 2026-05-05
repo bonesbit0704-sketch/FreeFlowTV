@@ -1,0 +1,20 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape>
+            <gradient
+                android:angle="0"
+                android:endColor="#9EF6DC"
+                android:startColor="#82BFFF" />
+            <corners android:radius="18dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:angle="0"
+                android:endColor="@color/button_primary_end"
+                android:startColor="@color/button_primary_start" />
+            <corners android:radius="18dp" />
+        </shape>
+    </item>
+</selector>

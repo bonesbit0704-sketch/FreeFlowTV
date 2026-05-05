@@ -1,0 +1,25 @@
+<resources>
+    <style name="Theme.FreeFlowTv" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/screen_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/screen_bg</item>
+    </style>
+
+    <style name="FreeFlowButton.Primary" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_primary_bg</item>
+        <item name="android:textColor">@color/screen_bg</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minHeight">42dp</item>
+        <item name="android:paddingHorizontal">14dp</item>
+    </style>
+
+    <style name="FreeFlowButton.Secondary" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_secondary_bg</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minHeight">42dp</item>
+        <item name="android:paddingHorizontal">14dp</item>
+    </style>
+</resources>

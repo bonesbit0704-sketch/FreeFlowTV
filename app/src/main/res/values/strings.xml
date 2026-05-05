@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreeFlowTV</string>
+    <string name="status_idle">Ожидание источника</string>
+    <string name="status_syncing">Обновляем плейлист...</string>
+    <string name="status_error">Ошибка загрузки</string>
+    <string name="status_ready">Загружено каналов: %1$d</string>
+    <string name="status_live_source">Источник: %1$s</string>
+    <string name="channel_position">Канал %1$d / %2$d</string>
+</resources>
